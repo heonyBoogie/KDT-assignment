@@ -1,2 +1,0 @@
-2023-09-28 17:44:22/IP:127.0.0.1/id:asdf/password:eqwe
-2023-09-28 17:44:30/IP:127.0.0.1/id:asdf/password:awtrdfasd
